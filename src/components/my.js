@@ -4,7 +4,7 @@ export default class My extends Component{
     render(){
         return(
             <div>
-              My
+              My天天天天天天天
             </div>
         )
     }
