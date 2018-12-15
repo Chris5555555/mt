@@ -4,7 +4,7 @@ export default class My extends Component{
     render(){
         return(
             <div>
-              My天天天天天天天
+              My jilao
             </div>
         )
     }
